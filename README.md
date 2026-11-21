@@ -59,4 +59,3 @@ Se comporte como um especialista em SQL
 ## 🔗 Link do Notebook Compartilhado
 
 * **Acesse o Notebook:** [Link do Notebook Compartilhado](https://notebook.google.com/notebook/e000b447-3977-4ee4-87ec-452694b5e125)
-```

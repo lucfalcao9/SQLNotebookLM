@@ -60,7 +60,3 @@ Se comporte como um especialista em SQL
 
 * **Acesse o Notebook:** [Link do Notebook Compartilhado](https://notebook.google.com/notebook/e000b447-3977-4ee4-87ec-452694b5e125)
 ```
-
----
-
-💡 Se você quiser, posso gerar uma descrição curta pronta para a seção *"About"* do repositório no GitHub ou sugerir tags/tópicos para indexá-lo.

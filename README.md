@@ -1,7 +1,5 @@
 # SQLNotebookLM
 
-Aqui está a estrutura completa e pronta para o seu arquivo **`README.md`**, formatada para documentar este projeto no GitHub:
-
 ```markdown
 # 🗄️ Estudos Avançados e Fundamentais de SQL
 
